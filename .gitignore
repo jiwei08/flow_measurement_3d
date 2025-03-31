@@ -3,7 +3,7 @@ __pycache__/
 Untitled*
 *.npy
 *.npz
-*.csv
+# *.csv
 *.mat
 *.log
 *.png
