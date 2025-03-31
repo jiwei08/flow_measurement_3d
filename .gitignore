@@ -1,0 +1,21 @@
+__pycache__/
+.ipynb_checkpoints/
+Untitled*
+*.npy
+*.npz
+*.csv
+*.mat
+*.log
+*.png
+*.gif
+*.ipynb
+*.mp4
+tmp/
+!database/mask_data/*
+*-master
+# *-main
+npy-matlab
+dask-worker-space
+output
+GotFlow3D-main
+logs/
